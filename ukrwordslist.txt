@@ -2,13 +2,15 @@
 аби; (щоб~щоби,~"for case"-~"for if"); б~би
 ?up,?~happen~hope(-надій*-[to-do])
 абрикос* apricot
-акт*~act, ?accident~ex*~exist(-*яв*~є),~execute
+акт*~act*, ?accident~ex*~exist(-*яв*~є),~execute,~cut~кос*,~cast
 але ~alone(-~одначи), ~ while; (-інакше-ще); (αλλα)
 альбом*~album
 ***
  апеляцій*,апелю*~appeal(-response)~~oppose
+                                           
  аплодистмент*~applaud; плод*(-after)~ballance,
-                        apple~яблук*,apply~~approach(-next)
+                      apple~яблук*~~плод*~able,apply~~approach(-next);
+                      amplify(-множ*)~example,(?-гучн*-laud);
 аренд*~rent
 афер*~affair,~prank,~frank(-simple)
 б~би ? be, bid~bet,build,would,will
@@ -58,11 +60,13 @@ b**, b*d~b*t~b*k~b*s
                                             банк*~pack*~пачк*~compact~~post;
                                             (save~send~seil~sell~resive~*сл*~*шл*)
  бадьй* body
- би*~бй* beat, be~was; бу*
- бидл* beetle; (~животин*(-тварин*),?жуй*~жува*)
- битв* battle
+ би*~бй*(б'є) beat, be~was; бу*
+   бій~бой* ?~~bounce,~biouance, boy
+     війн*,вой* ~~war,~свар*~чвар*
+   бидл* beetle; (~животин*(-тВАРин*),?жуй*~жува*)
+   битв* battle, ~~fight
+   ботв* ~weed,?~бід*
  боб* poppy; пуп'янк*~пуп*
- ботв* ~weed,?~бід*
  бок*~бік*~біч* beach, ~page(-side~сторінк*)~way;
                                                     ~spin,~span(-turn~крок*)~spot
  бочк* ~box, ?~ boat; 
@@ -171,9 +175,10 @@ b**, b*d~b*t~b*k~b*s
  вір* ?~aware(-баченнь*), ~virtual(-imagined); (remain-belive)
  вір* viral(~vital), ?virtu*, ~very~vary, ?~~every, ?~work(?~вар*);
                                                        ~мір*~мрій*; верх*~верш*
-   вивір довір звір(звіряй) завір зневір перевір повір
+   вивір довір звір(звірив) завір зневір повір
    вір*(-див*) miracle, mirror
    ?звір*(?-дик*-лісов*)
+   перевір* ~verify
 вид-видн* view, ~evidence; window, вікн*;
           віч~ок*, ось, оце; видив*; віт*, вил*~вй*; (серед-поряд-проміж-отвір)
 вираз* ~phrase~form(-plant-*род*)
@@ -360,8 +365,9 @@ b**, b*d~b*t~b*k~b*s
 девят*,девяност*,девятсот* ~ divine;
                       дивува*,див*(диво)(-верх*-най~~nine),диви*сь(-прозріва*);
                                                    (най~хай~high-вись*~ось-now)
-дерев* tree;  (construct*,~structure), ? стирч*,?~starch
-                                ? стар*(-незмінн*)(~~тверд*)(-old,?~elite,~літ*)
+дерев* ~~tree;
+  store(-береж*)~story~star~стар*~давн*(-незмінн*)(~~тверд*)(-old,?~elite,~літ*)
+                                 (construct*,~structure), ? стирч*,?~starch
 ***
  десят* ~decade,?~~ten(~dense), ~ desk~дошк~достк(-board~border),
               ?~~distance
@@ -408,7 +414,7 @@ b**, b*d~b*t~b*k~b*s
 дриж* ; (тримт*)               
 дріма* dream
 дров*; дерев*; дрібн*, *роб*~руба*
-друг* ~~friend~trend,?~trade,?~fruit
+друг* ~~friend,~trend(-*comp*),?~trade,?~fruit
 ду*(дує) ? ~ do
  дух* *duc*; ?~жух*~рух*; ?друк*
 дул*(дуло); ? ду*(дує)
@@ -541,12 +547,12 @@ b**, b*d~b*t~b*k~b*s
 кача* coach, ? ~culture
 качк* ; ? квочк*
 кашель~кашль* cough
-квітн*,розквіт* ~kid~викид*~quit~виход*
+квітн*,розквіт* ~kid~викид*~quit~виход*,~quite
  квітк*~цвіт* ~ white ~~fountain; ? вітер*(-flow~flower~~flag)
- квиток~квитк* quit(-mark)~~visa~pass
+ квиток~квитк* quit(-mark)~~visa~pass(-проход*)
 квартир* ~square,quarter,(площ*~flat)
                                                               (tessellat*,cell)
-керу*~керува*,керівн* ; ~car~carry; король~Carlo~Charles, руль*~rule
+керу*~керува*,керівн* ; ~car~carry; король~Carlo~Charles; РУль
 кида*,кину*~кинь ~ kid~хід~ход*, kidding
 кисл*,кисень~кисн* 
 Китай* ~~China; 
@@ -582,7 +588,7 @@ b**, b*d~b*t~b*k~b*s
     поколіннь* ~ ~class
   колір~кольор*~color, ~cover; ? ~ whole(крас*~покри*-paint-art); килим*~ковдр*;
                                                                 (?distinguish)
-  коли ~while
+  коли ~~how, ~~while 
     колись; (як-раз(-time)-when~one~once,if-as)
     ніколи ~~never(-ніразу); ні!коли(-"no time")
   колишн* ~ ~hell(-відом*); кол*(-1~one-перш~перед); околиц*, ліс*; колос*
@@ -699,8 +705,8 @@ b**, b*d~b*t~b*k~b*s
  легк*,легінь* ~ leg, ~light~electr*, ?~logic, ~ elegant(-ніжн*-плавн*)~~slow;
                           (? ~little),line~*ліз*~*леж*~lay,lung~language,legend 
  легень* ~lungs;
-                                               (? диха*~ду*(дує)~two~двиг*,~довг*-long, 
-                                                                                 move~мов*-language,
+                                          (? диха*~ду*(дує)~two~двиг*,~довг*-long, 
+                                                              move~мов*-language,
                                                         mix-common~communicat*)
  лет*,*літ*~*льот*  ~~fly; ? ліз*,~повз*
  лід*~льод* ~solid
@@ -724,6 +730,7 @@ b**, b*d~b*t~b*k~b*s
  лиж*(лижі); леж*, слиз*,?~сльоз*~вислизн*(-втікл*,~теч*)
  належ* ~~belong
  полян* plane, ~ plan; лан*; пол*~field
+лексик*~lexic, ?~~polemy~parliament
 либонь ~bone(-way); ~~або
 *лип* ?sleep
 лиц*-обличчь* ~look(-face~vis~вид*)~like;
@@ -737,6 +744,9 @@ b**, b*d~b*t~b*k~b*s
  недолік* ? ~lack
 ліпш*(-кращ*),ліпи* ~labour(?-part-долонь*);
                     хліб*?~~heal(-care); лапш*,лев*,лип*(-best~pasta)
+лови* love;
+                                              (-~lack,~luck,~look);
+                                (уда*,долі,~down-low,-співпа*-впа*(*пад*~*пал*))
 ложк* ~~law(-bed)
 луп*; лущ*,лама*
 лупи*(-би*) ~~labour, ? ~look
@@ -943,8 +953,9 @@ M
 ору
 осінь~осені,восени ~~autumn, ~synthe*; сін*, ~кінч*;
                                                              fin*~фінік*(-плод*)
-основ* ~~earth, ~~axis~вісь*; ~~hear-зна*(-чу*), ?осінь*(~*жн*)
- ясен*,~~ash
+основ* ~axiom,~axis~вісь*, ~~earth;
+                                      ?~~hear-зна*(-чу*)~~Ось, ?осінь*(~*жн*)
+ ясен*,~~ash,?~~usual; ?ожин*
                                                   (?воз*~-нес*)~~низ*,~нанизу*
 острів
 от те ("на туди"~"от~он туди")
@@ -976,11 +987,12 @@ M
 пень*~fine,~tune,~pain~~compensat*
  пенсій~pension
 ?пере-*  per, ? ~super, ~ over; ~ bar, прям*, ?~~*кресл*,*хрест*,через,крізь
- ?перпендикуляр*~perpendicular
- перетин* thin~тон**~*тин*~*тн*,tiny
- перед ~front, proto~прото; ? ~parent~paradise~породж*;
- перекус* breakfast
- перш* first
+  ?перпендикуляр*~perpendicular
+  перетин* thin~тон**~*тин*~*тн*,tiny
+  перед ~front, proto~прото; ? ~parent~paradise~породж*;
+  перекус* breakfast
+  перш* first,~~prime,~pro-*
+  принцип*~princip*
 пил*    ~ file; (рух*~решт*)
 пильн* ? повн*
 *пис*~пиш* ~post,~push(-*стави*~state), ~face~писок*(-public~лиц*)~office;
@@ -1020,7 +1032,6 @@ M
 по-*
  побут*, бу* be; ~ habit
  повтор* ~ought; *тор*; ~ вітер~вітр*,вит*(-дух*); (~ pattern)
- поган* ; (ПОнад)
  погод*
  погоди*-погоджува*
  поділк* ~delimeter; *діл*~*дол*
@@ -1060,21 +1071,24 @@ M
  *пле*~*пліта* ~fluctuat*, ~conflate~плута*; (віник*~вінок*~vine~ви*)
   випле запле перепле
   плента*
+поган* ?pagan; (?bug)
 поз* pose
- позицій* position; ? сид*~sit(-положеннь*,леж*~lie)
+  позицій* position; ? сид*~sit(-положеннь*,леж*~lie)
 половин*
 порт*~port
- експерт*~expert, екcпорт*~export
+  експерт*~expert, екcпорт*~export
 пост* ? ~fast
 пошт*~post; (-~постав*-достав*)
 пр*~пер* force; бер*~berry~very(-salute~solt)
- правд* proved~proof~approved~proud(-пиша*-write)
- прав*,правил*,правильн*
- пра*~пере purge~перш*, ~ previous~перед; пр*~пер*
- праск* press
- праць*  ~press,~precise,~right; пора*; ? ratio
- промінь*~промен*; прям*, (струмінь*~straight~strait)
- прям*
+  правд* proved~proof~approved~proud(-пиша*-write)
+  прав* ~~right~рихту*
+    правил правильн
+  пра*~пере purge~перш*, ~ previous~перед; пр*~пер*
+  праск* press
+  праць* part, ?~preach; пора*(порає),~raw~~*ряд*; ratio,~proportion;
+                              [...~precise, ~~true, ~rule, real,~рілль*...]
+  промінь*~промен*; прям*, (струмінь*~straight~strait)
+  прям*
 при-* prev,privat; перед
  привид*
  привід*
@@ -1112,6 +1126,7 @@ M
   впусти відпустк запусти припусти розпуст
 п’ять*,п’ятер*,п’ядесят five
 п’ядестал* ; ~~display, ~~install
+Р
 *р*х*~...~*р*дж*
  рад(рада); ратуй*~ряту*
   зрад нарад порад
@@ -1124,6 +1139,7 @@ M
   вирівн зрівн порівн
  рідин*-рідк* ; ? род* (тече~тіка*~тяг*)
  різ*~ріж*,*різн* ~ rather
+ різк* ~ risk (random,~run)
                                                     (than-ніж,~нож*; ? ні+ж)
  рік*~річк*~річці rich, reach, ? ~~year, ~brook; ~ рух*,руш*; рейвах~rave;
                          ~стрічк*,~струм*, river~рів*~ров*,?~carve(-точи*~теч*)
@@ -1131,7 +1147,7 @@ M
    врешті-решт нарешті
   річ~реч* (thing~цінн*~~точн*); ~ рух*,руш*,криш*~крих*,крик*~крич*
   ріш* reach
- ри*(риє) ?~root
+ ри*(риє) ray,~raw ?~root; ~рало
  рихту* right(-прав*~рівн*); (виправ*,поправ*);
                                                 straight,direct,ray~*ряд*,road
  *роз*~*різ*~із*; раз*
@@ -1184,7 +1200,7 @@ M
 рот*
 *рук*~руч*; рух*
  ручн вруч доруч заруч вируч зручн підручн прируч
-рулон* roll
+рулон* roll; ~крут*
 *** (exactly~execute~act)
  руль* rule(~правил*-працю*-роби*)
  рілль* real(-did-дійсн*-job); 
@@ -1383,9 +1399,9 @@ cхамен* ; ? з+Хам; ? ~school
   втик дотик притик стик тика
  поточн(-~доречн)
 темн*
-темп*~temp, ?temple;
-                                                         temperature,?~~compress
- ?тепл* 
+темп*~temp, ?temple,~team,~comp*;
+  температур*~temperature, ~term(-числ*-grade-color~call-name)(-*час*-part-hour)~time
+  ?тепл* 
 тер*,*тира*~*тр* ~throw,~trans, ~trough(~~крізь),
                  ~try(-кину*~кида*)~trial;
                                        *тер*~*тр*,*дер*~*дир*~*др*; ~ray~right;
@@ -1449,6 +1465,7 @@ cхамен* ; ? з+Хам; ? ~school
  толк*(-сенс*) toll~talk~tell~tale;
                                                 tail-хвост*~віст*~*від*~*вед*
 тоді ~~then
+топл*~топи* ?top(~~тон*~down,~drown)
 торг*
 торка*,торкн*; тер*~тр*
 тормоз*
@@ -1497,7 +1514,7 @@ cхамен* ; ? з+Хам; ? ~school
 харч* ?~ art; ~ (diet~dye-)крас*~гарн*
 ***
  хат* cottage, hat; ?кут*(закутав)~~хова*~home
- хват*(хвать) quote(-cite~цит*), have~*хап*,~~get(~*жа*), quota~~cap
+ хват*(хвать) quote(-cite~цит*), have~*хап*,~~get(~*жа*), quota~~cap,~copy~коп*
        fit, ~fate~?fatum; сид*~sit~suit;
                                 cut,cast~cust*, ("fit for purpose",(pose-sit));
          (?destiny~distan*, хопи*~хапа*~hope~cope, ~"two as one"-"two at once")
@@ -1559,7 +1576,7 @@ cхамен* ; ? з+Хам; ? ~school
 цукор*~sugar; ~сок*~~juice
 чави*; дави*,жува*
 чай* ~~tea, ?China
-час* ~case(-situа*~ситуа*-місц*); частин*(-кут*-section);
+час* ~case(-situа*~ситуа*-місц*),ocasion; частин*(-кут*-section);
                                                        (era~hour,~air-простор*)
     chance; ~just; ~тут,~тоді,(коли-як),(лише~last); вчасн*,участь*(-раз,зараз)
  час*; числ*(-time)~чита*~чату*(-пас*~pass-стой*-equal-strait)~чека*~чига*
